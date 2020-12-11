@@ -1,5 +1,7 @@
 # Birthday-Card-based-on-openGL
-  ~ CPT205_assignment1.exe  A executable file, you can try this to see what the birthday card sees like.  
+  ~ CPT205_assignment1.exe 
+  
+  A executable file, you can try this to see what the birthday card sees like.  
   
   ~ Source.cpp              Source code, copy it to your project.  
   
